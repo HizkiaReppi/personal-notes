@@ -1,0 +1,24 @@
+{
+  "name": "personal-notes",
+  "description": "Personal Notes App | Atur pikiran dan kenangan Anda dengan Catatan Pribadi, platform catatan pribadi yang sederhana dan intuitif. Catat ide, refleksi, dan daftar tugas dengan mudah.",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "author": "Hizkia Reppi",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-autobind": "^1.0.6",
+    "react-dom": "^18.0.0",
+    "sweetalert2": "^11.10.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "prettier": "^3.1.1",
+    "vite": "^4.3.9"
+  }
+}
